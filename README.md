@@ -1,4 +1,4 @@
 # no-youtube-comments
 
 install guide for those who don't know
-![alt text](no-youtube-comments.gif)
+![no-youtube-comments](no-youtube-comments.gif)
