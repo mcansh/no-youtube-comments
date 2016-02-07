@@ -1,0 +1,11 @@
+{
+   "content_scripts": [ {
+      "css": [ "no-youtube-comments.css" ],
+      "matches": [ "http://*.youtube.com/*", "https://*.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAq7YpY3z/qydCIJHvLZV1v9fxoggrvU/VXrCJx823YSqrkf3l6PLCKPROJ8+0rKHHMiBiceVMJuSfHTIoNpciGp1O3fo6cTNg3gcE/sMPkSWQg1UENkuOuFinxMYnHHraHhToZv+oPV1djsB7WDC1mhrbl0XImBXfzFw4paCdYQIDAQAB",
+   "manifest_version": 2,
+   "name": "No YouTube Comments",
+   "version": "0.1"
+}
