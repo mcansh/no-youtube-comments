@@ -4,3 +4,7 @@
 #watch-discussion,
 #comments-test-iframe {
   display: none !important; }
+
+.video-time {
+  opacity: 1 !important;
+}

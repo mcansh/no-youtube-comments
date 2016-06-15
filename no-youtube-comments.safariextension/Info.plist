@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Logan McAnsh</string>
 	<key>Builder Version</key>
-	<string>11601.5.17.1</string>
+	<string>12602.1.32.7</string>
 	<key>CFBundleDisplayName</key>
 	<string>No YouTube Comments</string>
 	<key>CFBundleIdentifier</key>
@@ -24,9 +24,9 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>YouTube comments are cancerous</string>
+	<string>YouTube comments are cancerous, this helps against that by removing them</string>
 	<key>DeveloperIdentifier</key>
-	<string>L5J4X6VAC6</string>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
