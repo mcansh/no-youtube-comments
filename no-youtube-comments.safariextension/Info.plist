@@ -5,15 +5,15 @@
 	<key>Author</key>
 	<string>Logan McAnsh</string>
 	<key>Builder Version</key>
-	<string>12602.1.32.7</string>
+	<string>13604.1.25.3.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>No YouTube Comments</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.loganmcansh.no-youtube-comments</string>
+	<string>sh.mcan.no-youtube-comments</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>2.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Content</key>
@@ -26,7 +26,7 @@
 	<key>Description</key>
 	<string>YouTube comments are cancerous, this helps against that by removing them</string>
 	<key>DeveloperIdentifier</key>
-	<string>0000000000</string>
+	<string>L5J4X6VAC6</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
