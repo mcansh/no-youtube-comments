@@ -1,6 +1,1 @@
-#watch-comment-panel,
-#cm,
-#watch-comments-core,
-#watch-discussion,
-#comments-test-iframe {
-  display: none !important; }
+ytd-comments{display: none !important;}

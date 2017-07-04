@@ -1,10 +1,1 @@
-#watch-comment-panel,
-#cm,
-#watch-comments-core,
-#watch-discussion,
-#comments-test-iframe {
-  display: none !important; }
-
-.video-time {
-  opacity: 1 !important;
-}
+ytd-comments{display: none !important;}

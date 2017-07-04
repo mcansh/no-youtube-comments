@@ -1,6 +1,2 @@
-.sass-cache/
-*.css.map
-config.codekit
-/min
-no-youtube-comments.sass
 no-youtube-comments.crx.pem
+dist/
